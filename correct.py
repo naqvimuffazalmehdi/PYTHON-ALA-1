@@ -25,3 +25,4 @@ else:
 
     if ratio > 1:
         print("Impossible ratio")
+
